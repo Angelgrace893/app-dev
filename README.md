@@ -1,8 +1,9 @@
 app-dev
 My first repository 
- My Favorite Movie: Transformers One (2024) 
+My Favorite Movie: Transformers One (2024) 
 
- Movie Details
+Movie Details
+
 Genre: Sci-Fi / Action / Animation
 Director:Josh Cooley
 Release Year: 2024
@@ -20,6 +21,7 @@ Optimus Prime is a great leader because he cares about his friends.
 The action scenes were very exciting to watch.
 
 " Why I love Transformers One"
+
 It shows the epic origin story of Optimus Prime and Megatron
 The animation is visually stunning
 The voice acting cast is amazing
@@ -28,9 +30,9 @@ The voice acting cast is amazing
  
 Characters
 Optimus Prime 
- Elita-1
- Bumblebee
-  Megatron
+Elita-1
+Bumblebee
+Megatron
 
 Movies I have watched
 Transformers One (2024)
