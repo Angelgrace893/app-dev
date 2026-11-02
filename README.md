@@ -25,14 +25,15 @@ The animation is visually stunning
 The voice acting cast is amazing
 
  Main Characters
+ 
 Characters
 Optimus Prime 
  Elita-1
  Bumblebee
-   Megatron
+  Megatron
 
 Movies I have watched
-- [x] Transformers One (2024)
-- [x] Transformers (2007)
-- [x] Bumblebee (2018)
+Transformers One (2024)
+Transformers (2007)
+Bumblebee (2018)
 
